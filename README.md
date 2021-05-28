@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-go get github.com/ibearddev/sentry-go-fiber
+go get github.com/ibearddev/sentry-fiber
 ```
 
 ```go
